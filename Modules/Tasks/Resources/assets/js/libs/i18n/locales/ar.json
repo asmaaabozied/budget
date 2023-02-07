@@ -1,0 +1,98 @@
+{
+    "messages": {
+        "default_msg": "تم بنجاح",
+        "success_add": "تم اضافة البيانات بنجاح",
+        "success_update": "تم تحديث البيانات بنجاح",
+        "success_delete": "تم حذف البيانات بنجاح",
+        "errors": {
+            "no_records_found": "لم يتم العثور على البيانات المطلوبة "
+        }
+    },
+    "modules": {
+        "task": "مهمة",
+        "workspace": "مساحة عمل",
+        "link": " رابط",
+        "list": " قائمة"
+    },
+    "forms": {
+        "btns": {
+            "add": "إضافة ",
+            "create": "إنشاء ",
+            "new": "جديد ",
+            "confirm": "تأكيد ",
+            "cancel": "إلغاء",
+            "reset": " تفريغ الحقول",
+            "delete": "حذف",
+            "close": "إغلاق",
+            "edit": "تعديل",
+            "save": "حفظ",
+            "update": "تحديث",
+            "save changes": "حفظ التغييرات",
+            "details": "تفاصيل",
+            "number": " رقم"
+        },
+        "placeholder": {
+            "notes": "ملاحظات"
+        },
+        "labels": {
+            "task_title": "عنوان المهمة",
+            "task_details": "تفاصيل المهمة",
+            "users": "المستخدمين",
+            "Workspace_description": "وصف مساحة العمل",
+            "Workspace_name": "اسم مساحة العمل",
+            "create_new_workspace": "إنشاء مساحة عمل جديدة",
+            "create_new_list_tasks_status": "إنشاء قائمة جديدة (حالة المهام)",
+            "auther": "المؤلف :",
+            "timing": "التوقيت:",
+            "since": "منذ:",
+            "create_new_link": "إنشاءرابط جديد",
+            "name": "الاسم",
+            "link_icon": "ايقونة الرابط",
+            "color": "اللون",
+            "URL": "الرابط",
+            "notes": "ملاحظات",
+            "list_name": "اسم القائمة",
+            "order": "ترتيب",
+            "expiry_time": "وقت الإنتهاء ",
+            "progress": "نسبة الإنجاز",
+            "assign_to": "يسند إلى",
+            "description": "الوصف",
+            "priority": "الأولوية",
+            "status": "الحالة",
+            "create_new_task": "إنشاء مهمة جديدة",
+            "assigned_to": "اسندت الي",
+            "created_at": "أنشئت في",
+            "expiry_at": "انتهاء الصلاحية في ",
+            "reply": "رد",
+            "replies": "الردود",
+            "common_links": "الروابط المشتركة:"
+        },
+        "inputs": {
+            "task_title": "عنوان المهمة",
+            "task_details": "تفاصيل المهمة",
+            "search": "بحث"
+        },
+        "actions": {
+            "add_new_task": "أضف مهمة جديدة"
+        }
+    },
+    "pagination": {
+        "Showing": "عرض",
+        "Show": "عرض",
+        "from": "من",
+        "to": "إلى",
+        "of": "من",
+        "entries": "سجلات",
+        "the_entries": "السجلات"
+    },
+
+    "breadcrumbs": {
+        "home": "الرئيسية",
+        "tasks_app": "تطبيق المهام",
+        "tasks_list": "قائمة المهام",
+        "back": "عودة",
+        "previouse": "السابق",
+        "workspaces": "مساحات العمل"
+    }
+
+}

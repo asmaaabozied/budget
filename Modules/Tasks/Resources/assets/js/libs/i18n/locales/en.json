@@ -1,0 +1,103 @@
+{
+    "messages": {
+        "default_msg": "Done Success",
+        "success_add": "Success add",
+        "success_update": "Success update",
+        "success_delete": "Success delete",
+
+        "errors": {
+            "no_records_found": "No Records found"
+        }
+
+    },
+
+    "modules": {
+        "task": "Task",
+        "workspace": "Workspace",
+        "link": "Link",
+        "list": "List"
+
+    },
+
+    "forms": {
+        "btns": {
+            "add": "Add",
+            "create": "create",
+            "new": "New",
+            "confirm": "Confirm ",
+            "cancel": "Cancel",
+            "reset": "Reset",
+            "delete": "Delete",
+            "close": "Close",
+            "edit": "Edit",
+            "save": "Save",
+            "update": "Update",
+            "save changes": "save changes",
+            "details": "Details",
+            "number": "Number"
+        },
+
+        "labels": {
+            "task_title": "Task title",
+            "task_details": "Task details",
+            "users": "Users",
+            "Workspace_description": "Workspace description",
+            "Workspace_name": "Workspace name",
+            "create_new_workspace": "Create new workspace",
+            "create_new_list_tasks_status": "Create New List (Tasks Status)",
+            "auther": "Auther:",
+            "timing": "Timing:",
+            "since": "Since:",
+            "create_new_link": "Create New Link",
+            "name": "Name",
+            "link_icon": "Link Icon",
+            "color": "Color",
+            "URL": "URL",
+            "notes": "Notes",
+            "list_name": "List Name",
+            "order": "Order",
+            "expiry_time": "Expiry Time",
+            "progress": "Progress",
+            "assign_to": "Assign To",
+            "description": "Description",
+            "priority": "Priority",
+            "status": "Status",
+            "create_new_task": "Create New Task",
+            "assigned_to": "Assigned To",
+            "created_at": "Created At",
+            "expiry_at": "Expiry At",
+            "reply": "Reply",
+            "replies": "Replies",
+            "common_links": "Common Links :"
+
+        },
+        "inputs": {
+            "task_title": "Task title",
+            "task_details": "Task details",
+            "search": "Search"
+        },
+        "actions": {
+            "add_new_task": "Add New task"
+        }
+    },
+
+    "pagination": {
+        "Showing": "Showing",
+        "Show": "Show",
+        "from": "From",
+        "to": "to",
+        "of": "of",
+        "entries": "entries",
+        "the_entries": "entries"
+    },
+
+    "breadcrumbs": {
+        "home": "Home",
+        "tasks_app": "Tasks Management App",
+        "tasks_list": "Tasks List",
+        "back": "Back",
+        "previouse": "Previouse",
+        "workspaces": "Workspaces"
+    }
+
+}

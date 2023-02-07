@@ -1,0 +1,12 @@
+/node_modules
+/.idea/
+/vendor
+/composer.phar
+/composer.lock
+/.DS_Store
+/.idea
+/.php_cs.cache
+/Resources/.idea/
+.idea/
+/.idea
+

@@ -1,0 +1,25 @@
+export default {
+  userData: state => state.userData,
+  ability: state => state.ability,
+  isLoggegdIn: state => state.isLoggegdIn,
+  showResponseMsg: state => state.showResponseMsg,
+  isLoading: state => state.isLoading,
+  allworkspaces: state => state.workspaces,
+  companyUsers: state => state.companyUsers,
+  // activeworkspaceUsers: state => state.activeworkspaceUsers,
+  activeworkspace: state => state.activeworkspace,
+  activeTask: state => state.activeTask,
+  unarchivedworkspaces: state => state.workspaces.filter(b => !b.archived),
+  archivedworkspaces: state => state.workspaces.filter(b => b.archived),
+  archivedLists: state => (state.activeworkspace ? state.activeworkspace.statuses.filter(l => l.archived) : []),
+  unarchivedLists: state => (state.activeworkspace ? state.activeworkspace.statuses.filter(l => !l.archived) : []),
+
+  loginUserFormErrors: state => state.loginUserFormErrors,
+  logoutUserFormErrors: state => state.logoutUserFormErrors,
+  createTaskFormErrors: state => state.createTaskFormErrors,
+  createListFormErrors: state => state.createListFormErrors,
+  createSpaceFormErrors: state => state.createSpaceFormErrors,
+  createCommentFormErrors: state => state.createCommentFormErrors,
+  linkFormErrors: state => state.linkFormErrors,
+
+}

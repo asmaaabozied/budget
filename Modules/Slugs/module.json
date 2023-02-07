@@ -1,0 +1,13 @@
+{
+    "name": "Slugs",
+    "alias": "slugs",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Slugs\\Providers\\SlugsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

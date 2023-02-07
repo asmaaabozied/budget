@@ -1,0 +1,142 @@
+.logo img {
+    width: 225px;
+}
+
+.spinner {
+    background-image: url(../images/fav-icon/fav.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+@font-face {
+    font-family: 'alfont_com_vip-samir';
+    src: url('../fonts/alfont_com_vip-samir.otf');
+    /* Legacy iOS */
+}
+
+body,
+.font-recoleta,
+.font-gordita,
+.title-style-six h2 {
+    font-family: 'alfont_com_vip-samir' !important;
+}
+
+.hero-banner-five .hero-heading span {
+    color: #093af4;
+}
+
+.theme-menu-five .right-widget .demo-button {
+    border: 2px solid #093af4;
+    color: #093af4;
+}
+
+.theme-menu-five .right-widget .demo-button:hover {
+    background: #093af4;
+    border-color: #093af4;
+    color: #fff;
+}
+
+.block-style-fifteen {
+    padding: 45px 15px 30px 15px;
+}
+
+.block-style-fifteen:before {
+    border: 2px solid #093af4;
+    box-shadow: 1px 1px 10px #a7a3a3;
+}
+
+.hero-banner-five .img-gallery .screen-two,
+.hero-banner-five .img-gallery .screen-one {
+    box-shadow: 0px 0px 20px 5px rgb(25 42 70 / 18%);
+}
+
+.fancy-feature-ten .shape-one {
+    bottom: -63px;
+    left: 5%;
+    right: auto;
+    width: 176px;
+}
+
+.li-items li {
+    font-size: 34px;
+    color: #000000;
+    line-height: 1.3;
+    padding-bottom: 33px;
+    list-style: square inside;
+}
+
+.how-it-works .single-item {
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.how-it-works .single-item h5 {
+    margin: 21px 0 24px;
+}
+
+.how-it-works .single-item.first::after {
+    background-image: url(../images/how-works-arrow-1.png);
+}
+
+.how-it-works .single-item::after {
+    left: calc(-17% - 10px);
+    right: initial;
+    transform: rotate(180deg);
+}
+
+.fancy-text-block-twentyOne .text-wrapper .client-info {
+    font-size: 20px;
+    color: #A09A92;
+    padding: 0;
+}
+
+.how-it-works .single-item::after {
+    content: "";
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 104px;
+    height: 15px;
+    right: calc(-17% - 10px);
+    top: calc(35% - 20px);
+}
+
+.how-it-works .single-item.second::after {
+    background-image: url(../images/how-works-arrow-2.png);
+    top: calc(30% - 20px);
+}
+
+.how-it-works .single-item::after {
+    left: calc(-17% - 10px);
+    right: initial;
+    transform: rotate(180deg);
+}
+
+.how-it-works .single-item {
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.how-it-works img {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.hero-banner-five .sing-in-call {
+    font-size: 22px;
+}
+
+.hero-banner-five .sing-in-call a {
+    margin: 0 10px;
+}
+
+.theme-footer-five .social-icon li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-style-six h6 {
+    font-size: 30px;
+}

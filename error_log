@@ -1,0 +1,105 @@
+[05-Oct-2022 12:43:16 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): Failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 12:43:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/budget/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 12:52:52 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): Failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 12:52:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/budget/public_html/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:21:25 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:21:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:29 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:30 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:39 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:40 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:41 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:42 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:45 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:47 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:37:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:39:41 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:39:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:59:58 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 13:59:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:09:34 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:09:34 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:09:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:09:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:09:40 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:09:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:10:18 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:10:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:10:24 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:10:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:10:47 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:10:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:02 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:08 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:18 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:20 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:57 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:11:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:12:02 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:12:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:12:06 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:12:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:12:11 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:12:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:13:57 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:13:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:13:59 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:13:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:14:02 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:14:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:14:27 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:14:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:14:42 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:14:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:17:48 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:17:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:51:07 UTC] PHP Warning:  require_once(/home/budget/public_html/public/index.php): failed to open stream: No such file or directory in /home/budget/public_html/index.php on line 21
+[05-Oct-2022 14:51:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/budget/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/budget/public_html/index.php on line 21
+[06-Oct-2022 09:25:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 16256
+[06-Oct-2022 09:25:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 45056 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23313
+[06-Oct-2022 09:26:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 45056 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23313
+[06-Oct-2022 09:34:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 09:35:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 09:37:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 09:38:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 09:39:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 09:39:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 09:39:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 11:49:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 7387
+[06-Oct-2022 17:11:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 7387
+[06-Oct-2022 18:52:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 7387
+[06-Oct-2022 19:26:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 7387
+[06-Oct-2022 19:28:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 16980
+[06-Oct-2022 19:29:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:29:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:29:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:29:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:30:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:30:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:30:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:32:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:33:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:35:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:38:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 17723
+[06-Oct-2022 19:41:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 19:41:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 19:41:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[06-Oct-2022 19:41:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/budget/public_html/vendor/mpdf/mpdf/src/Mpdf.php on line 23103
+[26-Oct-2022 09:33:27 UTC] PHP Fatal error:  Can't use method return value in write context in /home/budget/public_html/app/DataTables/SalaryWegesDataTable.php on line 74

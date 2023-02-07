@@ -1,0 +1,14 @@
+{
+    "name": "Tasks",
+    "alias": "tasks",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Tasks\\Providers\\TasksServiceProvider",
+        "Modules\\Tasks\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

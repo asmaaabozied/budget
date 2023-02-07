@@ -1,0 +1,50 @@
+/*
+* my own styles for tasks app , these styles not related to hyper theme
+*/
+.task-priority.Normal,
+.task-priority.normal {
+  background: gray;
+}
+
+.task-priority.Low,
+.task-priority.low {
+  background: #047104;
+}
+
+.task-priority.Medium,
+.task-priority.medium {
+  background: #b7b706;
+}
+
+.task-priority.High,
+.task-priority.high {
+  background: orange;
+}
+
+.task-priority.Highest,
+.task-priority.highest {
+  background: red;
+}
+
+.task-header {
+
+}
+
+/* task items style */
+p.text-muted.font-13 {
+  max-height: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 10px 0 !important;
+}
+
+.avatar-xs {
+  -o-object-fit: cover;
+     object-fit: cover;
+  border: 1px solid var(--ct-card-border-color);
+}
+
+/* end task items style */
+/* start custom style for task progress bar */
+/* end custom style for task progress bar *//*# sourceMappingURL=tasks.css.map */
